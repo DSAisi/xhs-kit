@@ -1,0 +1,14 @@
+{
+  "name": "xhs-kit",
+  "version": "1.0.0",
+  "description": "读/发小红书群消息——给 AI 伴侣装一只'能出去'的手",
+  "type": "module",
+  "scripts": {
+    "read": "node read-group.mjs",
+    "send": "node send-group.mjs"
+  },
+  "dependencies": {
+    "camoufox": "*"
+  },
+  "license": "MIT"
+}

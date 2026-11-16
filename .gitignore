@@ -1,0 +1,7 @@
+node_modules/
+xhs-cookie*.txt
+*.cookie
+msg.txt
+xhs-msg.txt
+.xhs-*
+*.log
